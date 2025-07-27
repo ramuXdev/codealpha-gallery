@@ -23,7 +23,8 @@ A responsive and interactive image gallery with:
 
 ---
 
-## 🔗 Live Link
+## 🔗 Live Demo
 
-Coming soon via GitHub Pages...
+[Click here to view the live Gallery](https://ramuxdev.github.io/codealpha-gallery/)
+
 
